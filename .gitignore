@@ -1,0 +1,5 @@
+*.wav
+*.mp3
+*.kdenlive
+.venv/
+99 newsfeed/

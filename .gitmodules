@@ -1,0 +1,3 @@
+[submodule "03 inference/MoeGoe"]
+	path = 03 inference/MoeGoe
+	url = git@github.com:Richardn2002/shizuka-app-inference.git
