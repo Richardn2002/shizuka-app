@@ -36,3 +36,9 @@ source activate .venv
 pip install -r requirements.txt
 python main.py
 ```
+
+## 🤗 Spaces Deployment
+
+Live demo hosted on [Hugging Face Spaces](https://huggingface.co/spaces/Richardn2002/shizuka-app).
+
+Sadly, HF Spaces does not support initialization of git submodules and require a dedicated repo for uploading applications, so the related files will not be hosted in this repo, however they can be easily accessed [here](https://huggingface.co/spaces/Richardn2002/shizuka-app/tree/main), which include metadata, an application main, and a copy of the forked MoeGoe.
